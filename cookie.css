@@ -1,0 +1,24 @@
+input {
+  display: block;
+  font-size: 1.5;
+  width: 75%
+}
+
+button {
+  font-size: 1.5em;
+  padding: 5px;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+::placeholder {
+  color: #DCDCDC;
+}
+
+.output {
+  padding: 15px;
+  font-size: 1.2em;
+  font-family: fantasy;
+}
